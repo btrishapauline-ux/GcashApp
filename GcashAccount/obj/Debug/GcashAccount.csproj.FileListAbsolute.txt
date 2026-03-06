@@ -1,0 +1,8 @@
+C:\Users\trisha\Desktop\School Files\Second Semester (3rd year)\Internet Technology\GcashAccount\GcashAccount\bin\Debug\GcashAccount.exe.config
+C:\Users\trisha\Desktop\School Files\Second Semester (3rd year)\Internet Technology\GcashAccount\GcashAccount\bin\Debug\GcashAccount.exe
+C:\Users\trisha\Desktop\School Files\Second Semester (3rd year)\Internet Technology\GcashAccount\GcashAccount\bin\Debug\GcashAccount.pdb
+C:\Users\trisha\Desktop\School Files\Second Semester (3rd year)\Internet Technology\GcashAccount\GcashAccount\obj\Debug\GcashAccount.csproj.AssemblyReference.cache
+C:\Users\trisha\Desktop\School Files\Second Semester (3rd year)\Internet Technology\GcashAccount\GcashAccount\obj\Debug\GcashAccount.csproj.CoreCompileInputs.cache
+C:\Users\trisha\Desktop\School Files\Second Semester (3rd year)\Internet Technology\GcashAccount\GcashAccount\obj\Debug\GcashAccount.exe
+C:\Users\trisha\Desktop\School Files\Second Semester (3rd year)\Internet Technology\GcashAccount\GcashAccount\obj\Debug\GcashAccount.pdb
+C:\Users\trisha\Desktop\School Files\Second Semester (3rd year)\Internet Technology\GcashAccount\GcashAccount\obj\Debug\GcashAccount.exe.config
